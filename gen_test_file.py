@@ -45,11 +45,12 @@ def seek_file(pathPrefix, fromHost, fromPort, toHost, toPort, totalSize, num):
 	h2h_addrs(pathPrefix, fromHost, fromPort, fileName, toHost, toPort, toFileList)
 
 
-path = os.getcwd() + '/test_files/'
+#path = os.getcwd() + '/test_files/'
+path = '/global/project/projectdirs/m2930/lyl/gf_test/test_files/'
 fromHost = 'localhost'
 fromPort = '12334'
 toHost = 'localhost'
-toPort = '12334'
+toPort = '12335'
 totalSize = 1000
 fileNumber = 10
 seek_file(path, fromHost, fromPort, toHost, toPort, totalSize, fileNumber)
