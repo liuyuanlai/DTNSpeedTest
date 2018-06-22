@@ -20,7 +20,16 @@ def seek_file_size(totalSize, num):
 def seek_file_name(pathPrefix, num):
 	return [pathPrefix + str(i) for i in range(num)]
 
-def seek_file(pathPrefix, totalSize, num):
+def h2h_addrs(pathPrefix, fromHost, fromPort, fromFileList, toHost, toPort, toFileList):
+	f = open(pathPrefix + 'h2hList.txt', 'wb')
+	for i in range(len(fromFileList)):
+		fromPath = 'ftp://' + fromHost + ':' + fromPort + fromFileList[i]
+		toPath = 'ftp://' + toHost + ':' + toPort + toFileList[i]
+		line = fromPath + ' ' + toPath + '\n'
+		f.write(line)
+	f.close() 
+
+def seek_file(pathPrefix, fromHost, fromPort, toHost, toPort, totalSize, num):
 	try:
 		shutil.rmtree(pathPrefix)
 	except:
@@ -32,5 +41,15 @@ def seek_file(pathPrefix, totalSize, num):
 	fileName = seek_file_name(pathPrefix + 'file', num)
 	fileSize = seek_file_size(totalSize, num)
 	map(seek_one_file, fileName, fileSize)
+	toFileList = ['/dev/null'] * num
+	h2h_addrs(pathPrefix, fromHost, fromPort, fileName, toHost, toPort, toFileList)
+
+
 path = os.getcwd() + '/test_files/'
-seek_file(path, 1000, 10)
+fromHost = 'localhost'
+fromPort = '12334'
+toHost = 'localhost'
+toPort = '12334'
+totalSize = 1000
+fileNumber = 10
+seek_file(path, fromHost, fromPort, toHost, toPort, totalSize, fileNumber)
