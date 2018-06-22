@@ -38,15 +38,15 @@ def seek_file(pathPrefix, fromHost, fromPort, toHost, toPort, totalSize, num):
 		os.mkdir(pathPrefix)
 	except:
 		print "Can not create folder"
-	fileName = seek_file_name(pathPrefix + 'file', num)
+	fromFileList = seek_file_name(pathPrefix + 'file', num)
 	fileSize = seek_file_size(totalSize, num)
 	map(seek_one_file, fileName, fileSize)
 	toFileList = ['/dev/null'] * num
-	h2h_addrs(pathPrefix, fromHost, fromPort, fileName, toHost, toPort, toFileList)
+	h2h_addrs(pathPrefix, fromHost, fromPort, fromFileList, toHost, toPort, toFileList)
 
 
-#path = os.getcwd() + '/test_files/'
-path = '/global/project/projectdirs/m2930/lyl/gf_test/test_files/'
+path = '/global/project/projectdirs/m2930/lyl/gf_test/read_test_files/'
+#path = os.getcwd() + '/read_test_files/'
 fromHost = 'localhost'
 fromPort = '12334'
 toHost = 'localhost'
