@@ -40,7 +40,7 @@ def seek_file(pathPrefix, fromHost, fromPort, toHost, toPort, totalSize, num):
 		print "Can not create folder"
 	fromFileList = seek_file_name(pathPrefix + 'file', num)
 	fileSize = seek_file_size(totalSize, num)
-	map(seek_one_file, fileName, fileSize)
+	map(seek_one_file, fromFileList, fileSize)
 	toFileList = ['/dev/null'] * num
 	h2h_addrs(pathPrefix, fromHost, fromPort, fromFileList, toHost, toPort, toFileList)
 
@@ -51,6 +51,6 @@ fromHost = 'localhost'
 fromPort = '12334'
 toHost = 'localhost'
 toPort = '12335'
-totalSize = 1000
-fileNumber = 10
+totalSize = 2**33
+fileNumber = 4000
 seek_file(path, fromHost, fromPort, toHost, toPort, totalSize, fileNumber)
