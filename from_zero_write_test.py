@@ -34,7 +34,8 @@ def sink_file(pathPrefix, fromHost, fromPort, toHost, toPort, num):
 	fromFileList = ['/dev/zero'] * num
 	h2h_addrs(pathPrefix, fromHost, fromPort, fromFileList, toHost, toPort, toFileList)
 
-path = os.getcwd() + '/write_test_files/'
+path = '/global/project/projectdirs/m2930/lyl/gf_test/write_test_files/'
+#path = os.getcwd() + '/write_test_files/'
 fromHost = 'localhost'
 fromPort = '12335'
 toHost = 'localhost'
