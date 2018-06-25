@@ -51,6 +51,6 @@ fromHost = 'localhost'
 fromPort = '12334'
 toHost = 'localhost'
 toPort = '12335'
-totalSize = 2**33
+totalSize = 2**43
 fileNumber = 4000
 seek_file(path, fromHost, fromPort, toHost, toPort, totalSize, fileNumber)
