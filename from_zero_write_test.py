@@ -41,5 +41,5 @@ fromPort = '12335'
 toHost = 'localhost'
 toPort = '12334'
 totalSize = 1000
-fileNumber = 10
+fileNumber = 4000
 sink_file(path, fromHost, fromPort, toHost, toPort, fileNumber)
