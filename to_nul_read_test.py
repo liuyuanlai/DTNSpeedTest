@@ -12,9 +12,14 @@ def seek_one_file(name, size):
 	f.close()
 
 def seek_file_size(totalSize, num):
-	mean = totalSize / num
-	sigma = 10
-	s = np.random.normal(mean, sigma, num)
+	#mean = totalSize / num
+	#sigma = 10000
+	#s = np.random.rando(mean, sigma, num)
+	#s = np.random.multinomial(totalSize, np.ones(num)/num, size=1)[0]
+	#print sum(s)
+	s = np.random.uniform(1, 2**29, num)
+	s = s.astype(int)
+	print sum(s)
 	return s
 
 def seek_file_name(pathPrefix, num):
@@ -51,6 +56,6 @@ fromHost = 'localhost'
 fromPort = '12334'
 toHost = 'localhost'
 toPort = '12335'
-totalSize = 2**43
+totalSize = 2**40
 fileNumber = 4000
 seek_file(path, fromHost, fromPort, toHost, toPort, totalSize, fileNumber)
