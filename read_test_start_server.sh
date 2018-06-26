@@ -1,7 +1,8 @@
 #!/bin/bash
 
 from_port=12334
-from_server_folder="/global/project/projectdirs/m2930/lyl/gf_test"
+#from_server_folder="/global/project/projectdirs/m2930/lyl/gf_test"
+from_server_folder=$lustre\gf_test
 to_port=12335
 to_server_folder="/dev/"
 

@@ -41,6 +41,8 @@ def seek_file(pathPrefix, fromHost, fromPort, toHost, toPort, totalSize, num):
 		pass
 	try:
 		os.mkdir(pathPrefix)
+		setStripe = "lfs setstripe -c 10 -S 100m " + pathPrefix
+		os.system(setStripe)
 	except:
 		print "Can not create folder"
 	fromFileList = seek_file_name(pathPrefix + 'file', num)
@@ -50,8 +52,9 @@ def seek_file(pathPrefix, fromHost, fromPort, toHost, toPort, totalSize, num):
 	h2h_addrs(pathPrefix, fromHost, fromPort, fromFileList, toHost, toPort, toFileList)
 
 
-path = '/global/project/projectdirs/m2930/lyl/gf_test/read_test_files/'
+#path = '/global/project/projectdirs/m2930/lyl/gf_test/read_test_files/'
 #path = os.getcwd() + '/read_test_files/'
+path = "/global/cscratch1/sd/yuanlai/gf_test/read_test_files/"
 fromHost = 'localhost'
 fromPort = '12334'
 toHost = 'localhost'
