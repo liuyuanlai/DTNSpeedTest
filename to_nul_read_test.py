@@ -17,7 +17,8 @@ def seek_file_size(totalSize, num):
 	#s = np.random.rando(mean, sigma, num)
 	#s = np.random.multinomial(totalSize, np.ones(num)/num, size=1)[0]
 	#print sum(s)
-	s = np.random.uniform(1, 2**29, num)
+	maxSize = totalSize / num * 2
+	s = np.random.uniform(1, maxSize, num)
 	s = s.astype(int)
 	print sum(s)
 	return s
@@ -26,10 +27,12 @@ def seek_file_name(pathPrefix, num):
 	return [pathPrefix + str(i) for i in range(num)]
 
 def h2h_addrs(pathPrefix, fromHost, fromPort, fromFileList, toHost, toPort, toFileList):
+	fileNum = len(fromFileList)
+	nodeList = ['01', '02', '04', '05']
 	f = open(pathPrefix + 'h2hList.txt', 'wb')
-	for i in range(len(fromFileList)):
-		fromPath = 'ftp://' + fromHost + ':' + fromPort + fromFileList[i]
-		toPath = 'ftp://' + toHost + ':' + toPort + toFileList[i]
+	for i in range(fileNum):
+		fromPath = 'ftp://' + fromHost + nodeList[i % len(nodeList)] + ':' + fromPort + fromFileList[i]
+		toPath = 'ftp://' + toHost + nodeList[i % len(nodeList)] + ':' + toPort + toFileList[i]
 		line = fromPath + ' ' + toPath + '\n'
 		f.write(line)
 	f.close() 
@@ -41,8 +44,8 @@ def seek_file(pathPrefix, fromHost, fromPort, toHost, toPort, totalSize, num):
 		pass
 	try:
 		os.mkdir(pathPrefix)
-		setStripe = "lfs setstripe -c 10 -S 100m " + pathPrefix
-		os.system(setStripe)
+	#	setStripe = "lfs setstripe -c 10 -S 100m " + pathPrefix
+	#	os.system(setStripe)
 	except:
 		print "Can not create folder"
 	fromFileList = seek_file_name(pathPrefix + 'file', num)
@@ -55,10 +58,10 @@ def seek_file(pathPrefix, fromHost, fromPort, toHost, toPort, totalSize, num):
 #path = '/global/project/projectdirs/m2930/lyl/gf_test/read_test_files/'
 #path = os.getcwd() + '/read_test_files/'
 path = "/global/cscratch1/sd/yuanlai/gf_test/read_test_files/"
-fromHost = 'localhost'
+fromHost = 'dtn'
 fromPort = '12334'
-toHost = 'localhost'
+toHost = 'dtn'
 toPort = '12335'
-totalSize = 2**40
-fileNumber = 4000
+totalSize = 2**20
+fileNumber = 40
 seek_file(path, fromHost, fromPort, toHost, toPort, totalSize, fileNumber)
