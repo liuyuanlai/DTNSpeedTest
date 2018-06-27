@@ -62,6 +62,6 @@ fromHost = 'dtn'
 fromPort = '12334'
 toHost = 'dtn'
 toPort = '12335'
-totalSize = 2**20
-fileNumber = 40
+totalSize = 2**40
+fileNumber = 4000
 seek_file(path, fromHost, fromPort, toHost, toPort, totalSize, fileNumber)
