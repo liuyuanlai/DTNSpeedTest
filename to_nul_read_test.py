@@ -28,7 +28,7 @@ def seek_file_name(pathPrefix, num):
 
 def h2h_addrs(pathPrefix, fromHost, fromPort, fromFileList, toHost, toPort, toFileList):
 	fileNum = len(fromFileList)
-	nodeList = ['01', '02', '04', '05']
+	nodeList = ['01', '02', '04', '05', '06', '07', '08', '09', '10']
 	f = open(pathPrefix + 'h2hList.txt', 'wb')
 	for i in range(fileNum):
 		fromPath = 'ftp://' + fromHost + nodeList[i % len(nodeList)] + ':' + fromPort + fromFileList[i]
