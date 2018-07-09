@@ -3,8 +3,9 @@
 from_port=12334
 #from_server_folder="/global/project/projectdirs/m2930/lyl/gf_test"
 from_server_folder=/global/cscratch1/sd/yuanlai/gf_test
+#from_server_folder=/dev
 to_port=12335
-to_server_folder=/dev/
+to_server_folder=/global/project/projectdirs/m2930/lyl
 
 #for nid in 01 02 04 05 06 07 08 09 10
 for nid in 01 02 04 05 06 07 08 09 10
