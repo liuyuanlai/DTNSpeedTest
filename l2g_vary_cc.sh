@@ -15,7 +15,7 @@ do
 	timeStamp=$(date "+%Y-%m-%d %H.%M.%S")
 	echo $timeStamp >> $filePath
 	echo $cc
-	/usr/bin/time -a -o $filePath -f "%e" globus-url-copy -q -cc $cc -f ${lustre}gf_test/read_test_files/l2gList.txt
+	/usr/bin/time -a -o $filePath -f "%e" globus-url-copy -q -cc $cc -f ${lustre}gf_test/read_test_files/l2gDiffDTNList.txt
 	timeStamp=$(date "+%Y-%m-%d %H.%M.%S")
 	echo $timeStamp >> $filePath
 	rm -rf $l2gDir
