@@ -42,12 +42,12 @@ def seek_file(pathPrefix, fromHost, fromPort, toHost, toPort, totalSize, num):
 		shutil.rmtree(pathPrefix)
 	except:
 		pass
-	try:
-		os.mkdir(pathPrefix)
+	#try:
+	os.mkdir(pathPrefix)
 	#	setStripe = "lfs setstripe -c 10 -S 100m " + pathPrefix
 	#	os.system(setStripe)
-	except:
-		print "Can not create folder"
+	#except:
+	#	print "Can not create folder"
 	fromFileList = seek_file_name(pathPrefix + 'file', num)
 	fileSize = seek_file_size(totalSize, num)
 	map(seek_one_file, fromFileList, fileSize)
@@ -55,13 +55,13 @@ def seek_file(pathPrefix, fromHost, fromPort, toHost, toPort, totalSize, num):
 	h2h_addrs(pathPrefix, fromHost, fromPort, fromFileList, toHost, toPort, toFileList)
 
 
-#path = '/global/project/projectdirs/m2930/lyl/gf_test/read_test_files/'
+path = "/global/project/projectdirs/m2930/lyl/gf_test/iptest/"
 #path = os.getcwd() + '/read_test_files/'
-path = "/global/cscratch1/sd/yuanlai/gf_test/read_test_files/"
+#path = "/global/cscratch1/sd/yuanlai/gf_test/read_test_files/"
 fromHost = 'dtn'
 fromPort = '12334'
 toHost = 'dtn'
 toPort = '12335'
 totalSize = 2**40
-fileNumber = 4000
+fileNumber = 1
 seek_file(path, fromHost, fromPort, toHost, toPort, totalSize, fileNumber)
