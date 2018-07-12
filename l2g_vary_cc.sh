@@ -9,7 +9,7 @@ rm -rf $l2gDir
 #filePath=${lustre}gf_test/read_test_results/vary_cc_result/06.28-20.25.52_night_posix.txt
 filePath=${lustre}gf_test/l2g_test_results/vary_cc_result/${fileTimeStamp}_posix.txt
 touch $filePath
-for cc in $(seq 96)
+for cc in $(seq 2 2 96)
 do
 	mkdir $l2gDir
 	timeStamp=$(date "+%Y-%m-%d %H.%M.%S")
