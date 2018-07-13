@@ -2,3 +2,4 @@ read_test_files/
 write_test_files/
 tmp/
 nohup.out
+.DS_Store
