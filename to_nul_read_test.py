@@ -7,8 +7,8 @@ import shutil
 
 def seek_one_file(name, size):
 	f = open(name, 'wb')
-	f.seek(size - 1)
-	f.write('\0')
+	#f.seek(size - 1)
+	f.write('\0' * size)
 	f.close()
 
 def seek_file_size(totalSize, num):
