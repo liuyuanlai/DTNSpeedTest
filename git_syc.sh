@@ -4,3 +4,4 @@ git add -A
 git commit -m "minor"
 git pull
 git push
+git status
