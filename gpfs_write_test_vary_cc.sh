@@ -6,15 +6,16 @@ n2gDir=${gpfs}gf_test/write_test_results/
 
 rm -rf $n2gDir
 
-filePath=${gpfs}gf_test/write_test_files/${fileTimeStamp}_mpi.txt
+filePath=${gpfs}gf_test/write_test_files/${fileTimeStamp}_posix.txt
 touch $filePath
 t=60
-for cc in $(seq 96)
+for cc in $(seq 2 2 96)
 do
 	mkdir $n2gDir
 	timeStamp=$(date "+%Y-%m-%d %H.%M.%S")
         echo $timeStamp >> $filePath
         echo $cc
+        echo $cc >> $filePath
 
 	globus-url-copy -cc $cc -t $t -f ${gpfs}gf_test/write_test_files/h2hList.txt
 	du -sh  $n2gDir >> $filePath
