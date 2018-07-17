@@ -3,3 +3,4 @@ write_test_files/
 tmp/
 nohup.out
 .DS_Store
+.ipynb_checkpoints/
