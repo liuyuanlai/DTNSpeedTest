@@ -1,9 +1,11 @@
 #!/bin/bash
 
-fileTimeStamp=$(date "+%m.%d-%H.%M.%S")
+fileTimeStamp=$(date "+%Y.%m.%d-%H.%M.%S")
 
-filePath=/projects/AMASE/lyl/iperf_nersc2alcf_test_results/${fileTimeStamp}.txt
+filePath=${lustre}gf_test/iperf_nersc2alcf_test_results/${fileTimeStamp}.txt
 touch filePath
 echo $fileTimeStamp >> $filePath
+echo "t=300" >> $filePath
+echo "p=10" >> $filePath
 ./iperf_nersc2alcf.sh >> $filePath
 
