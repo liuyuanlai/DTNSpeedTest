@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
     sprintf(id_arr, "%ld", file_id);
     strcat(file_name, id_arr);
     file = fopen(file_name, "rb");
-    if (!file) {fputs ("File open error!", stderr); exit(1);}
+    if (!file) {fputs ("File open error: %s", file_name, stderr); exit(1);}
 
     result = read_size;
     while (result == read_size) {
