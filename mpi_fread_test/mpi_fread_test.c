@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
   if (buffer == NULL) {fputs ("Memory error", stderr); exit (2);}
   int result = read_size;
 
-  while (result = read_size) {
+  while (result == read_size) {
     result = fread(buffer, 1, read_size, file);
     printf("Read %d bytes from processor %s, rank %d out of %d processors\n",
          result, processor_name, world_rank, world_size);
