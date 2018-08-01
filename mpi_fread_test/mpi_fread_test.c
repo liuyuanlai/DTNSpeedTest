@@ -37,20 +37,26 @@ int main(int argc, char** argv) {
   int read_size = 224000;
   int file_id = world_rank;
   char* id_arr[5];
-  sprintf(id_arr, "%ld", file_id);
-  strcat(file_name, id_arr);
   FILE* file;
-  file = fopen(file_name, "rb");
-  if (!file) {fputs ("File open error!", stderr); exit(1);}
   char* buffer;
   buffer = (char*) malloc (sizeof(char) * read_size);
+  int result;
   if (buffer == NULL) {fputs ("Memory error", stderr); exit (2);}
-  int result = read_size;
 
-  while (result == read_size) {
-    result = fread(buffer, 1, read_size, file);
-    printf("Read %d bytes from processor %s, rank %d out of %d processors\n",
-         result, processor_name, world_rank, world_size);
+  while (file_id < 31941) {
+    sprintf(id_arr, "%ld", file_id);
+    strcat(file_name, id_arr);
+    file = fopen(file_name, "rb");
+    if (!file) {fputs ("File open error!", stderr); exit(1);}
+
+    result = read_size;
+    while (result == read_size) {
+      result = fread(buffer, 1, read_size, file);
+      printf("Read %d bytes from processor %s, rank %d out of %d processors\n",
+           result, processor_name, world_rank, world_size);
+    }
+    fclose(file);
+  
   }
 
   // Finalize the MPI environment. No more MPI calls can be made after this
