@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
            result, processor_name, world_rank, world_size);
     }
     fclose(file);
-  
+    file_id += 10;
   }
 
   // Finalize the MPI environment. No more MPI calls can be made after this
