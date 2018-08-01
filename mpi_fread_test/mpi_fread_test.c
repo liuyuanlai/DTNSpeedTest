@@ -45,12 +45,13 @@ int main(int argc, char** argv) {
   char* buffer;
   buffer = (char*) malloc (sizeof(char) * read_size);
   if (buffer == NULL) {fputs ("Memory error", stderr); exit (2);}
-  int result;
-  result = fread(buffer, 1, read_size, file);
-  
-  printf("Read %d bytes from processor %s, rank %d out of %d processors\n",
+  int result = read_size;
+
+  while (result = read_size) {
+    result = fread(buffer, 1, read_size, file);
+    printf("Read %d bytes from processor %s, rank %d out of %d processors\n",
          result, processor_name, world_rank, world_size);
-  
+  }
 
   // Finalize the MPI environment. No more MPI calls can be made after this
   MPI_Finalize();
