@@ -4,3 +4,5 @@ tmp/
 nohup.out
 .DS_Store
 .ipynb_checkpoints/
+mpi_fread_test/*.o
+mpi_fread_test/mpi_fread_test
