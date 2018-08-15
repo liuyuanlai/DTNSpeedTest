@@ -57,11 +57,11 @@ def seek_file(pathPrefix, fromHost, fromPort, toHost, toPort, totalSize, num):
 
 #path = "/global/project/projectdirs/m2930/lyl/gf_test/test_files/"
 #path = os.getcwd() + '/read_test_files/'
-path = "/global/cscratch1/sd/yuanlai/gf_test/test_files/"
+path = "/global/cscratch1/sd/yuanlai/gf_test/to_miradtn_test_files/"
 fromHost = 'dtn'
 fromPort = '12334'
 toHost = 'dtn'
 toPort = '12335'
-totalSize = 2**40
+totalSize = 2**40*3
 fileNumber = 4000
 seek_file(path, fromHost, fromPort, toHost, toPort, totalSize, fileNumber)
