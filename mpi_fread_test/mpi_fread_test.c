@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
   //char file_name[72];
   int read_size = 262144;
   int file_id = world_rank;
-  char* id_arr[5];
+  char id_arr[5];
   FILE* file;
   char* buffer;
   buffer = (char*) malloc (sizeof(char) * read_size);
