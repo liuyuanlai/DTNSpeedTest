@@ -6,3 +6,11 @@ nohup.out
 .ipynb_checkpoints/
 mpi_fread_test/*.o
 mpi_fread_test/mpi_fread_test
+mpi_fread_test/*result*
+mpi_fread_test/*ost*
+mpi_fread_test/vary_np*
+mpi_fread_test/s5o_mpi_fread_test
+mpi_fread_test/sao_mpi_fread_test
+mpi_fread_test/bao_mpi_fread_test
+result.txt
+new_result.txt
