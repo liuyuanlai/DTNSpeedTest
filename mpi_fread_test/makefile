@@ -1,4 +1,4 @@
-EXECS=gpfs_sao_mpi_fread_test
+EXECS=lustre_bao_mpi_fread_test
 #EXECS=mira_sao_mpi_fread_test
 MPICC?=mpicc
 
