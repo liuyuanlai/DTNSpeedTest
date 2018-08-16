@@ -12,5 +12,6 @@ mpi_fread_test/vary_np*
 mpi_fread_test/s5o_mpi_fread_test
 mpi_fread_test/sao_mpi_fread_test
 mpi_fread_test/bao_mpi_fread_test
+mpi_fread_test/gpfs_*
 result.txt
 new_result.txt

@@ -1,4 +1,4 @@
-EXECS=s5o_mpi_fread_test
+EXECS=gpfs_sao_mpi_fread_test
 MPICC?=mpicc
 
 all: ${EXECS}
