@@ -19,6 +19,8 @@ int main(int argc, char** argv) {
   // Initialize the MPI environment. The two arguments to MPI Init are not
   // currently used by MPI implementations, but are there in case future
   // implementations might need the arguments.
+  int np = atoi(argv[1]);
+  //printf("argv[1]: %s\n", argv[1]);
   MPI_Init(NULL, NULL);
 
   // Get the number of processes
@@ -111,7 +113,7 @@ int main(int argc, char** argv) {
     fclose(file);
     gettimeofday(&end ,NULL);
     fclose_time += ((end.tv_sec - start.tv_sec) * 1000000) + (end.tv_usec - start.tv_usec);
-    file_id += 12;
+    file_id += np;
   }
   //p_end = clock();
   gettimeofday(&p_end ,NULL);
