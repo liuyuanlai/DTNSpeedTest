@@ -44,7 +44,10 @@ int main(int argc, char** argv) {
   //char file_name[80] = "/global/cscratch1/sd/yuanlai/gf_test/new_test_files_limit_ost_smaller/file";
   //char file_name[63] = "/global/cscratch1/sd/yuanlai/gf_test/read_test_files/file";
   
-  char file_name[53] = "/projects/AMASE/lyl/new_test_files_all_ost/file";
+  char file_name[79] = "/global/project/projectdirs/m2930/lyl/gf_test/new_test_files_all_ost/file";
+  //char file_name[71] = "/global/project/projectdirs/m2930/lyl/gf_test/l2g_test_files/file";
+  
+  //char file_name[53] = "/projects/AMASE/lyl/new_test_files_all_ost/file";
   //char file_name[46] = "/projects/AMASE/lyl/read_test_files/file";
   int read_size = 262144;
   int file_id = world_rank;
@@ -70,8 +73,11 @@ int main(int argc, char** argv) {
     //file_name[64] = '\0';
     //file_name[74] = '\0';
     //file_name[57] = '\0';
+
+    file_name[73] = '\0';
+    //file_name[65] = '\0';
     
-    file_name[47] = '\0';
+    //file_name[47] = '\0';
     //file_name[40] = '\0';
     sprintf(id_arr, "%ld", file_id);
     strcat(file_name, id_arr);
