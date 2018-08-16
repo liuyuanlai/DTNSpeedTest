@@ -13,5 +13,7 @@ mpi_fread_test/s5o_mpi_fread_test
 mpi_fread_test/sao_mpi_fread_test
 mpi_fread_test/bao_mpi_fread_test
 mpi_fread_test/gpfs_*
+mpi_fread_test/mira_sao_mpi_fread_test
+mpi_fread_test/mira_bao_mpi_fread_test
 result.txt
 new_result.txt
