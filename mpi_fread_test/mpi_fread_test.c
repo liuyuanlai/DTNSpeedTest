@@ -39,9 +39,11 @@ int main(int argc, char** argv) {
   // Print off a hello world message
 
   //char file_name[70] = "/global/cscratch1/sd/yuanlai/gf_test/new_test_files_all_ost/file";
-  char file_name[80] = "/global/cscratch1/sd/yuanlai/gf_test/new_test_files_limit_ost_smaller/file";
+  //char file_name[80] = "/global/cscratch1/sd/yuanlai/gf_test/new_test_files_limit_ost_smaller/file";
   //char file_name[63] = "/global/cscratch1/sd/yuanlai/gf_test/read_test_files/file";
-  //char file_name[72];
+  
+  char file_name[79] = "/global/project/projectdirs/m2930/lyl/gf_test/new_test_files_all_ost/file";
+  //char file_name[71] = "/global/project/projectdirs/m2930/lyl/gf_test/l2g_test_files/file";
   int read_size = 262144;
   int file_id = world_rank;
   char id_arr[5];
@@ -64,8 +66,11 @@ int main(int argc, char** argv) {
   //while (file_id < 4000) {
     //strncpy(file_name, file_name_pre, 72);
     //file_name[64] = '\0';
-    file_name[74] = '\0';
+    //file_name[74] = '\0';
     //file_name[57] = '\0';
+
+    file_name[73] = '\0';
+    //file_name[65] = '\0';
     sprintf(id_arr, "%ld", file_id);
     strcat(file_name, id_arr);
     //start = clock();
