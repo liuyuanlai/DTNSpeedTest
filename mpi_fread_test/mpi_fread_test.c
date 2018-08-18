@@ -47,8 +47,8 @@ int main(int argc, char** argv) {
   //char file_name[79] = "/global/project/projectdirs/m2930/lyl/gf_test/new_test_files_all_ost/file";
   //char file_name[71] = "/global/project/projectdirs/m2930/lyl/gf_test/l2g_test_files/file";
   
-  //char file_name[53] = "/projects/AMASE/lyl/new_test_files_all_ost/file";
-  char file_name[46] = "/projects/AMASE/lyl/read_test_files/file";
+  char file_name[53] = "/projects/AMASE/lyl/new_test_files_all_ost/file";
+  //char file_name[46] = "/projects/AMASE/lyl/read_test_files/file";
   int read_size = 262144;
   int file_id = world_rank;
   char id_arr[5];
@@ -67,8 +67,8 @@ int main(int argc, char** argv) {
   //p_start = clock();
   gettimeofday(&p_start, NULL);
   int sleep_count = 0, file_count = 0;
-  //while (file_id < 59581) {
-  while (file_id < 4000) {
+  while (file_id < 59581) {
+  //while (file_id < 4000) {
     //strncpy(file_name, file_name_pre, 72);
     //file_name[64] = '\0';
     //file_name[74] = '\0';
@@ -77,8 +77,8 @@ int main(int argc, char** argv) {
     //file_name[73] = '\0';
     //file_name[65] = '\0';
     
-    //file_name[47] = '\0';
-    file_name[40] = '\0';
+    file_name[47] = '\0';
+    //file_name[40] = '\0';
     sprintf(id_arr, "%ld", file_id);
     strcat(file_name, id_arr);
     //start = clock();
@@ -103,11 +103,11 @@ int main(int argc, char** argv) {
       //fread_time += ((double) (end - start)) / CLOCKS_PER_SEC;
       fread_time += ((end.tv_sec - start.tv_sec) * 1000000) + (end.tv_usec - start.tv_usec);
       total_read += result;
-      gettimeofday(&start, NULL);
-      usleep(1500);
-      gettimeofday(&end ,NULL);
-      sleep_time += ((end.tv_sec - start.tv_sec) * 1000000) + (end.tv_usec - start.tv_usec);
-      sleep_count++;
+      //gettimeofday(&start, NULL);
+      //usleep(1500);
+      //gettimeofday(&end ,NULL);
+      //sleep_time += ((end.tv_sec - start.tv_sec) * 1000000) + (end.tv_usec - start.tv_usec);
+      //sleep_count++;
     }
     gettimeofday(&start, NULL);
     fclose(file);

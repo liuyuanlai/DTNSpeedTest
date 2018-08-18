@@ -1,6 +1,6 @@
 #!/bin/bash
 
-file="mpi_fread_test/mira/mira_vary_np_test3.txt"
+file="mpi_fread_test/mira/mira_vary_np_test_no_sleep1.txt"
 
 for np in 12 24 48 72 96 120 240 480 720 960
 do
