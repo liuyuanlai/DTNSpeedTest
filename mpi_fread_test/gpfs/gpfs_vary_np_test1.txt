@@ -1,0 +1,313 @@
+np: 1
+Application start timestamp: 1534477554
+processor on node dtn01.nersc.gov, rank 0 out of 1 processors:
+Total open file time: 94680058us
+Total read file time: 1199590697us
+Total close file time: 8404828us
+Sleep time: 6632597565us
+Total elapsed time: 7936117110us
+Missing time:843962us
+Total bytes readed: 1099779792773
+Total files readed: 59581
+Total sleep counts: 4236434
+=================================================================
+Application end timestamp: 1534485490
+Application start timestamp: 1534485490
+processor on node dtn01.nersc.gov, rank 0 out of 1 processors:
+Total open file time: 5778600us
+Total read file time: 427310088us
+Total close file time: 1694915us
+Sleep time: 6536858227us
+Total elapsed time: 6972523541us
+Missing time:881711us
+Total bytes readed: 1093623794165
+Total files readed: 4000
+Total sleep counts: 4173854
+=================================================================
+Application end timestamp: 1534492463
+np: 2
+Application start timestamp: 1534492463
+processor on node dtn01.nersc.gov, rank 0 out of 2 processors:
+Total open file time: 39037178us
+Total read file time: 592801924us
+Total close file time: 4233789us
+Sleep time: 3143164904us
+Total elapsed time: 3779642308us
+Missing time:404513us
+Total bytes readed: 520998962086
+Total files readed: 29791
+Total sleep counts: 2008052
+=================================================================
+processor on node dtn02.nersc.gov, rank 1 out of 2 processors:
+Total open file time: 36413824us
+Total read file time: 584390774us
+Total close file time: 3582480us
+Sleep time: 3488016569us
+Total elapsed time: 4112946451us
+Missing time:542804us
+Total bytes readed: 578780830687
+Total files readed: 29790
+Total sleep counts: 2228382
+=================================================================
+Application end timestamp: 1534496576
+Application start timestamp: 1534496577
+processor on node dtn01.nersc.gov, rank 0 out of 2 processors:
+Total open file time: 2835189us
+Total read file time: 206359251us
+Total close file time: 846077us
+Sleep time: 3204267381us
+Total elapsed time: 3414708890us
+Missing time:400992us
+Total bytes readed: 536285868682
+Total files readed: 2000
+Total sleep counts: 2046769
+=================================================================
+processor on node dtn02.nersc.gov, rank 1 out of 2 processors:
+Total open file time: 3350946us
+Total read file time: 200820888us
+Total close file time: 832548us
+Sleep time: 3327934726us
+Total elapsed time: 3533459453us
+Missing time:520345us
+Total bytes readed: 557337925483
+Total files readed: 2000
+Total sleep counts: 2127085
+=================================================================
+Application end timestamp: 1534500110
+np: 4
+Application start timestamp: 1534500112
+processor on node dtn04.nersc.gov, rank 3 out of 4 processors:
+Total open file time: 31007439us
+Total read file time: 301623537us
+Total close file time: 1774399us
+Sleep time: 1686726026us
+Total elapsed time: 2021366055us
+Missing time:234654us
+Total bytes readed: 280305280645
+Total files readed: 14895
+Total sleep counts: 1079546
+=================================================================
+processor on node dtn02.nersc.gov, rank 1 out of 4 processors:
+Total open file time: 5715875us
+Total read file time: 297248940us
+Total close file time: 1817723us
+Sleep time: 1800632921us
+Total elapsed time: 2105709782us
+Missing time:294323us
+Total bytes readed: 298475550042
+Total files readed: 14895
+Total sleep counts: 1148836
+=================================================================
+processor on node dtn01.nersc.gov, rank 0 out of 4 processors:
+Total open file time: 18207607us
+Total read file time: 305733323us
+Total close file time: 2077900us
+Sleep time: 1822710119us
+Total elapsed time: 2148959208us
+Missing time:230259us
+Total bytes readed: 302634668046
+Total files readed: 14896
+Total sleep counts: 1164707
+=================================================================
+processor on node dtn03.nersc.gov, rank 2 out of 4 processors:
+Total open file time: 186307800us
+Total read file time: 308849818us
+Total close file time: 53664572us
+Sleep time: 4715255385us
+Total elapsed time: 5264167460us
+Missing time:89885us
+Total bytes readed: 218364294040
+Total files readed: 14895
+Total sleep counts: 843345
+=================================================================
+Application end timestamp: 1534505376
+Application start timestamp: 1534505377
+processor on node dtn01.nersc.gov, rank 0 out of 4 processors:
+Total open file time: 1724864us
+Total read file time: 111036487us
+Total close file time: 425354us
+Sleep time: 1653651750us
+Total elapsed time: 1767042116us
+Missing time:203661us
+Total bytes readed: 276965970985
+Total files readed: 1000
+Total sleep counts: 1057047
+=================================================================
+processor on node dtn04.nersc.gov, rank 3 out of 4 processors:
+Total open file time: 2611003us
+Total read file time: 109425139us
+Total close file time: 429622us
+Sleep time: 1657101239us
+Total elapsed time: 1769848066us
+Missing time:281063us
+Total bytes readed: 277195905860
+Total files readed: 1000
+Total sleep counts: 1057916
+=================================================================
+processor on node dtn02.nersc.gov, rank 1 out of 4 processors:
+Total open file time: 304601us
+Total read file time: 100616458us
+Total close file time: 428807us
+Sleep time: 1674121212us
+Total elapsed time: 1775763488us
+Missing time:292410us
+Total bytes readed: 280142019623
+Total files readed: 1000
+Total sleep counts: 1069169
+=================================================================
+processor on node dtn03.nersc.gov, rank 2 out of 4 processors:
+Total open file time: 11545936us
+Total read file time: 87717036us
+Total close file time: 3814939us
+Sleep time: 5283331001us
+Total elapsed time: 5386511831us
+Missing time:102919us
+Total bytes readed: 259319897697
+Total files readed: 1000
+Total sleep counts: 989722
+=================================================================
+Application end timestamp: 1534510764
+np: 6
+Application start timestamp: 1534510765
+processor on node dtn05.nersc.gov, rank 4 out of 6 processors:
+Total open file time: 7202728us
+Total read file time: 176343166us
+Total close file time: 712696us
+Sleep time: 866555183us
+Total elapsed time: 1050859047us
+Missing time:45274us
+Total bytes readed: 144487584359
+Total files readed: 9930
+Total sleep counts: 558073
+=================================================================
+processor on node dtn01.nersc.gov, rank 0 out of 6 processors:
+Total open file time: 11259323us
+Total read file time: 201929112us
+Total close file time: 1236239us
+Sleep time: 1081227660us
+Total elapsed time: 1295781535us
+Missing time:129201us
+Total bytes readed: 179903943607
+Total files readed: 9931
+Total sleep counts: 693098
+=================================================================
+processor on node dtn02.nersc.gov, rank 1 out of 6 processors:
+Total open file time: 10345126us
+Total read file time: 194001583us
+Total close file time: 1201689us
+Sleep time: 1096598651us
+Total elapsed time: 1302316792us
+Missing time:169743us
+Total bytes readed: 181940492693
+Total files readed: 9930
+Total sleep counts: 700869
+=================================================================
+processor on node dtn06.nersc.gov, rank 5 out of 6 processors:
+Total open file time: 16212811us
+Total read file time: 186422632us
+Total close file time: 730134us
+Sleep time: 1137023188us
+Total elapsed time: 1340441953us
+Missing time:53188us
+Total bytes readed: 190207090149
+Total files readed: 9930
+Total sleep counts: 732424
+=================================================================
+processor on node dtn04.nersc.gov, rank 3 out of 6 processors:
+Total open file time: 10531327us
+Total read file time: 200800273us
+Total close file time: 1220302us
+Sleep time: 1242268683us
+Total elapsed time: 1454978617us
+Missing time:158032us
+Total bytes readed: 206633247845
+Total files readed: 9930
+Total sleep counts: 795089
+=================================================================
+processor on node dtn03.nersc.gov, rank 2 out of 6 processors:
+Total open file time: 113277905us
+Total read file time: 209375779us
+Total close file time: 32085121us
+Sleep time: 4438212999us
+Total elapsed time: 4793028941us
+Missing time:77137us
+Total bytes readed: 196607434120
+Total files readed: 9930
+Total sleep counts: 756881
+=================================================================
+Application end timestamp: 1534515558
+Application start timestamp: 1534515560
+processor on node dtn05.nersc.gov, rank 4 out of 6 processors:
+Total open file time: 697203us
+Total read file time: 60592914us
+Total close file time: 238753us
+Sleep time: 1054551972us
+Total elapsed time: 1116123472us
+Missing time:42630us
+Total bytes readed: 177980542923
+Total files readed: 666
+Total sleep counts: 679286
+=================================================================
+processor on node dtn01.nersc.gov, rank 0 out of 6 processors:
+Total open file time: 839936us
+Total read file time: 63019152us
+Total close file time: 282705us
+Sleep time: 1073559619us
+Total elapsed time: 1137818545us
+Missing time:117133us
+Total bytes readed: 180006421819
+Total files readed: 667
+Total sleep counts: 686998
+=================================================================
+processor on node dtn02.nersc.gov, rank 1 out of 6 processors:
+Total open file time: 946130us
+Total read file time: 65457825us
+Total close file time: 293127us
+Sleep time: 1089783310us
+Total elapsed time: 1156668224us
+Missing time:187832us
+Total bytes readed: 182263766055
+Total files readed: 667
+Total sleep counts: 695629
+=================================================================
+processor on node dtn06.nersc.gov, rank 5 out of 6 processors:
+Total open file time: 1397757us
+Total read file time: 58520156us
+Total close file time: 251606us
+Sleep time: 1107688977us
+Total elapsed time: 1167902193us
+Missing time:43697us
+Total bytes readed: 186955858916
+Total files readed: 666
+Total sleep counts: 713504
+=================================================================
+processor on node dtn04.nersc.gov, rank 3 out of 6 processors:
+Total open file time: 911018us
+Total read file time: 69490304us
+Total close file time: 297657us
+Sleep time: 1122966606us
+Total elapsed time: 1193831133us
+Missing time:165548us
+Total bytes readed: 188118300512
+Total files readed: 667
+Total sleep counts: 717952
+=================================================================
+processor on node dtn03.nersc.gov, rank 2 out of 6 processors:
+Total open file time: 7066964us
+Total read file time: 58089740us
+Total close file time: 2456238us
+Sleep time: 3289009968us
+Total elapsed time: 3356701153us
+Missing time:78243us
+Total bytes readed: 178298903940
+Total files readed: 667
+Total sleep counts: 680485
+=================================================================
+Application end timestamp: 1534518916
+np: 8
+np: 10
+np: 12
+np: 14
+np: 16
+np: 18
+np: 20
