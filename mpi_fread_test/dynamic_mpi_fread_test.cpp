@@ -40,8 +40,8 @@ int main(int argc, char** argv) {
     MPI_Type_create_struct(s_count, blocklengths, offsets, types, &my_mpi_type);
     MPI_Type_commit(&my_mpi_type);
 
-    // Print off a hello world message
-    
+
+    status s = {0, 0, 0, 0, 0, 0, 0, 0, 0, world_rank};
     
     if (world_rank == 0) {
         int sender;
@@ -55,17 +55,7 @@ int main(int argc, char** argv) {
         }
         count = -1;
         for (int i = 1; i < world_size; i++)
-            MPI_Send(&count, 1, MPI_INT, i, 0, MPI_COMM_WORLD);
-        status r_s;
-        for (int i = 1; i < world_size; i++) {
-            MPI_Recv(&r_s, 1, my_mpi_type, MPI_ANY_SOURCE, 0, MPI_COMM_WORLD, MPI_STATUS_IGNORE);
-            // printf("processor on node %s, rank %d out of %d processors:\n",
-            //     processor_name, world_rank, world_size);
-            printf("Rank %d out of %d processors:\n", r_s.rank, world_size);
-            printf("Total open file time: %lldus\nTotal read file time: %lldus\nTotal close file time: %lldus\nSleep time: %lldus\nTotal elapsed time: %lldus\nMissing time:%lldus\nTotal bytes readed: %lld\nTotal files readed: %d\nTotal sleep counts: %d\n", 
-                r_s.fopen_time, r_s.fread_time, r_s.fclose_time, r_s.sleep_time, r_s.total_time, r_s.missing_time, r_s.total_read, r_s.file_count, r_s.sleep_count);
-            printf("===========================================================================\n");
-        }   
+            MPI_Send(&count, 1, MPI_INT, i, 0, MPI_COMM_WORLD); 
     }else {
 
         char file_name[53] = "/projects/AMASE/lyl/new_test_files_all_ost/file";
@@ -79,7 +69,7 @@ int main(int argc, char** argv) {
         if (buffer == NULL) {fputs ("Memory error", stderr); exit (2);}
         int file_id;
         struct timeval start, end;
-        status s = {0, 0, 0, 0, 0, 0, 0, 0, 0, world_rank};
+        //status s = {0, 0, 0, 0, 0, 0, 0, 0, 0, world_rank};
 
         struct timeval p_start, p_end;
         gettimeofday(&p_start, NULL);
@@ -91,7 +81,6 @@ int main(int argc, char** argv) {
                 gettimeofday(&p_end ,NULL);
                 s.total_time = ((p_end.tv_sec - p_start.tv_sec) * 1000000) + (p_end.tv_usec - p_start.tv_usec);
                 s.missing_time = s.total_time - s.fopen_time - s.fread_time - s.fclose_time - s.sleep_time;
-                MPI_Send(&s, 1, my_mpi_type, 0, 0, MPI_COMM_WORLD);
 
                 
                 break;
@@ -100,6 +89,7 @@ int main(int argc, char** argv) {
             file_name[47] = '\0';
             sprintf(id_arr, "%ld", file_id);
             strcat(file_name, id_arr);
+            cout << file_name<<endl;
             gettimeofday(&start, NULL);
             file = fopen(file_name, "rb");
             gettimeofday(&end ,NULL);
@@ -109,6 +99,7 @@ int main(int argc, char** argv) {
             while (result == read_size) {
                 gettimeofday(&start, NULL);
                 result = fread(buffer, 1, read_size, file);
+                cout << "read size: " << result << endl; 
                 gettimeofday(&end ,NULL);
                 s.fread_time += ((end.tv_sec - start.tv_sec) * 1000000) + (end.tv_usec - start.tv_usec);
                 s.total_read += result;
@@ -130,6 +121,24 @@ int main(int argc, char** argv) {
             gettimeofday(&end ,NULL);
             s.fclose_time += ((end.tv_sec - start.tv_sec) * 1000000) + (end.tv_usec - start.tv_usec);   
         }
+    }
+
+    MPI_Barrier(MPI_COMM_WORLD);
+    
+    if (world_rank == 0) {
+    	status r_s;
+        for (int i = 1; i < world_size; i++) {
+            MPI_Recv(&r_s, 1, my_mpi_type, MPI_ANY_SOURCE, 0, MPI_COMM_WORLD, MPI_STATUS_IGNORE);
+            // printf("processor on node %s, rank %d out of %d processors:\n",
+            //     processor_name, world_rank, world_size);
+            printf("Rank %d out of %d processors:\n", r_s.rank, world_size);
+            printf("Total open file time: %lldus\nTotal read file time: %lldus\nTotal close file time: %lldus\nSleep time: %lldus\nTotal elapsed time: %lldus\nMissing time:%lldus\nTotal bytes readed: %lld\nTotal files readed: %d\nTotal sleep counts: %d\n", 
+                r_s.fopen_time, r_s.fread_time, r_s.fclose_time, r_s.sleep_time, r_s.total_time, r_s.missing_time, r_s.total_read, r_s.file_count, r_s.sleep_count);
+            printf("===========================================================================\n");
+        }
+    }else {
+    	cout << "rank" << s.rank << endl;          
+        MPI_Send(&s, 1, my_mpi_type, 0, 0, MPI_COMM_WORLD);
     }
 
 
