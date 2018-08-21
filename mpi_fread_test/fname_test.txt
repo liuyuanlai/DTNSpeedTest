@@ -1,0 +1,10 @@
+/projects/AMASE/lyl/read_test_files/file0 1000 0
+/projects/AMASE/lyl/read_test_files/file1 20 1
+/projects/AMASE/lyl/read_test_files/file10 3000000 2
+/projects/AMASE/lyl/read_test_files/file100 400000 3
+/projects/AMASE/lyl/read_test_files/file1000 50000 4
+/projects/AMASE/lyl/read_test_files/file1001 60 0
+/projects/AMASE/lyl/read_test_files/file1002 7 1
+/projects/AMASE/lyl/read_test_files/file1003 8000 2
+/projects/AMASE/lyl/read_test_files/file1004 900 3
+/projects/AMASE/lyl/read_test_files/file1005 100 4
