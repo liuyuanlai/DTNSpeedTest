@@ -19,11 +19,12 @@ using namespace std;
 #define BLOCK_SIZE    262144
 #define S2MICRO_S     1000000
 #define OST_NUM 5
+#define MAX_NP_PER_OST 40
 
 int getNextOST(vector<int>& ost_count, vector<bool>& ost_completed) {
     int min_load_ost = -1, min_load = 100000;
     for (int i = 0; i < OST_NUM; i++) {
-        if (!ost_completed[i] && ost_count[i] < min_load) {
+        if (!ost_completed[i] && ost_count[i] <= MAX_NP_PER_OST && ost_count[i] < min_load) {
             min_load_ost = i;
             min_load = ost_count[i];
         }
@@ -141,7 +142,7 @@ int main(int argc, char** argv) {
         fclose(fp);
     }else{
         struct timeval start, end, g_start, g_end;
-        long long tfopen = 0, tfread = 0, tfclose = 0, tsleep = 0, telapse = 0, cfread = 0, nfile = 0, nbyte = 0, rtsleep = 0;;
+        long long tfopen = 0, tfread = 0, tfclose = 0, tsleep = 0, telapse = 0, cfread = 0, nfile = 0, nbyte = 0, rtsleep = 0;
         long long t_per_fread;
         gettimeofday(&g_start, NULL);
         ret = MPI_Recv(file_name, MAX_FNAME_LEN, MPI_CHAR, 0, 0, MPI_COMM_WORLD, MPI_STATUS_IGNORE);
