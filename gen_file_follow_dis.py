@@ -23,11 +23,11 @@ def seek_one_file(index, name, size):
 
 def gen_file_size_list(size):
     data = np.load('/global/cscratch1/sd/yuanlai/gf_test/byte_by_app_src-2017.npy')[()]
-    data = data['globusonline-fxp'][:49]
+    data = data['globusonline-fxp'][:33]
     d_sum = data.sum()
     data = data / d_sum
-    num = range(49)
-    random_variable = rv_discrete(values=(num,data))
+    num = range(33)
+    random_variable = rv_discrete(values=(num,data), seed=1)
     total = 0
     res = []
     while total < size:
@@ -53,11 +53,12 @@ def seek_file(pathPrefix, size):
         #       print "Can not create folder"
         fileSizeList = gen_file_size_list(size)
 	print sum(fileSizeList)
+	print len(fileSizeList)
 	indexList = [i for i in range(len(fileSizeList))]
         fileNameList = seek_file_name(pathPrefix + 'file', len(fileSizeList))
         map(seek_one_file, indexList,  fileNameList, fileSizeList)
 
 random.seed(1)
-path = '/global/cscratch1/sd/yuanlai/gf_test/new_test_files_limit_ost/'
+path = '/global/cscratch1/sd/yuanlai/gf_test/new_test_files_limit_ost_smaller/'
 size = 2**40
 seek_file(path, size)
