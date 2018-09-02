@@ -1,7 +1,7 @@
 #!/bin/bash
 
 P=10
-t=300
+t=600
 
 for node in 01 02 04 05 06 07 08 09 10
 do
