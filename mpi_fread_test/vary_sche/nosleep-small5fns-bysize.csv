@@ -1,0 +1,2 @@
+np,rank,dtn,nfile,nbyte,tfopen,tfread,tfclose,tsleep,telapse,cfread,rtsleep
+1,0,dtn02.nersc.gov,59581,1099779792773,105363580,5576932533,184910957,83645,5874293451,4236434,0
