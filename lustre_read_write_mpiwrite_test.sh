@@ -6,7 +6,7 @@ fileTimeStamp=$(date "+%m.%d-%H.%M.%S")
 #filePath=${lustre}gf_test/read_test_results/vary_cc_result/06.28-20.25.52_night_posix.txt
 filePath1=${lustre}gf_test/read_test_results/vary_cc_result/${fileTimeStamp}.txt
 filePath2=${lustre}gf_test/new_read_test_results_all_ost/vary_cc_result/${fileTimeStamp}.txt
-touch $filePath
+#touch $filePath
 for cc in 1 2 4 8 10 20 30 40 50 60 70 80 90 100 200 300 400
 #for cc in 192 256 384 512 
 do
