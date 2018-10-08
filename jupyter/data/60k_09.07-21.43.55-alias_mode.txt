@@ -1,0 +1,85 @@
+2018-09-07 21.43.55
+2
+1688.51
+1.1T	/projects/AMASE/lyl/write_test_files/
+2018-09-07 22.12.36
+2018-09-07 22.12.36
+4
+760.90
+1.1T	/projects/AMASE/lyl/write_test_files/
+2018-09-07 22.25.54
+2018-09-07 22.25.54
+8
+383.31
+1.1T	/projects/AMASE/lyl/write_test_files/
+2018-09-07 22.33.06
+2018-09-07 22.33.06
+10
+295.42
+1.1T	/projects/AMASE/lyl/write_test_files/
+2018-09-07 22.38.54
+2018-09-07 22.38.54
+12
+248.19
+1.1T	/projects/AMASE/lyl/write_test_files/
+2018-09-07 22.43.58
+2018-09-07 22.43.58
+24
+123.04
+1.1T	/projects/AMASE/lyl/write_test_files/
+2018-09-07 22.47.07
+2018-09-07 22.47.07
+36
+85.85
+1.1T	/projects/AMASE/lyl/write_test_files/
+2018-09-07 22.49.45
+2018-09-07 22.49.45
+48
+67.37
+1.1T	/projects/AMASE/lyl/write_test_files/
+2018-09-07 22.52.08
+2018-09-07 22.52.08
+60
+62.38
+1.1T	/projects/AMASE/lyl/write_test_files/
+2018-09-07 22.54.26
+2018-09-07 22.54.26
+72
+54.83
+1.1T	/projects/AMASE/lyl/write_test_files/
+2018-09-07 22.56.37
+2018-09-07 22.56.37
+84
+52.26
+1.1T	/projects/AMASE/lyl/write_test_files/
+2018-09-07 22.58.47
+2018-09-07 22.58.47
+96
+47.15
+1.1T	/projects/AMASE/lyl/write_test_files/
+2018-09-07 23.00.52
+2018-09-07 23.00.52
+108
+45.67
+1.1T	/projects/AMASE/lyl/write_test_files/
+2018-09-07 23.02.58
+2018-09-07 23.02.58
+120
+54.22
+1.1T	/projects/AMASE/lyl/write_test_files/
+2018-09-07 23.05.08
+2018-09-07 23.05.08
+240
+88.61
+1.1T	/projects/AMASE/lyl/write_test_files/
+2018-09-07 23.07.49
+2018-09-07 23.07.49
+360
+39.40
+1.1T	/projects/AMASE/lyl/write_test_files/
+2018-09-07 23.09.54
+2018-09-07 23.09.54
+480
+63.08
+1.1T	/projects/AMASE/lyl/write_test_files/
+2018-09-07 23.12.05

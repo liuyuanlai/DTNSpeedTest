@@ -25,12 +25,13 @@ def seek_file_name(pathPrefix, num):
         return [pathPrefix + str(i) for i in range(num)]
 
 def seek_file(pathPrefix, size, number):
-        try:
-                shutil.rmtree(pathPrefix)
+        try:	
+		pass
+                #shutil.rmtree(pathPrefix)
         except:
                 pass
         #try:
-        os.mkdir(pathPrefix)
+        #os.mkdir(pathPrefix)
         #       setStripe = "lfs setstripe -c 10 -S 100m " + pathPrefix
         #       os.system(setStripe)
         #except:
@@ -42,9 +43,9 @@ def seek_file(pathPrefix, size, number):
         p.map(seek_one_file, fileNameList)
 
 random.seed(1)
-path = '/global/cscratch1/sd/yuanlai/gf_test/new_test_files_vary_size/'
-total_size = 2**37
-for s in [1, 20, 50, 100, 200, 500, 1000, 2000, 5000, 10000, 20000]:
+path = '/global/cscratch1/sd/yuanlai/gf_test/linear_test_files/linear_test_5G/'
+total_size = 5*(2**30)
+for s in [1, 20, 50, 100, 200, 500, 1000, 2000, 5000, 10000]:
 	print s
 	pathPre = path + str(s) + '/'
 	seek_file(pathPre, total_size, s)

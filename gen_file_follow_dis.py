@@ -7,9 +7,9 @@ from scipy.stats import rv_discrete
 import random
 
 def seek_one_file(index, name, size):
-	nost = 5
+	#nost = 5
 #	os.system('touch %s' % name)
-	os.system( 'lfs setstripe --stripe-index %d --stripe-count 1 %s\n' % ((index % nost), name))
+	#os.system( 'lfs setstripe --stripe-index %d --stripe-count 1 %s\n' % ((index % nost), name))
         f = open(name, 'wb')
 	print size
         #f.seek(size - 1)
@@ -37,8 +37,8 @@ def gen_file_size_list(size):
         res.append(_one)
     return res
 
-def seek_file_name(pathPrefix, num):
-        return [pathPrefix + str(i) for i in range(num)]
+def seek_file_name(pathPrefix, indexList):
+        return [pathPrefix + idx for idx in indexList]
 
 def seek_file(pathPrefix, size):
         try:
@@ -52,13 +52,15 @@ def seek_file(pathPrefix, size):
         #except:
         #       print "Can not create folder"
         fileSizeList = gen_file_size_list(size)
+	fileSizeList.sort(reverse=True)
 	print sum(fileSizeList)
 	print len(fileSizeList)
-	indexList = [i for i in range(len(fileSizeList))]
-        fileNameList = seek_file_name(pathPrefix + 'file', len(fileSizeList))
+	indexList = [str(i) for i in range(len(fileSizeList))]
+	indexList.sort()
+        fileNameList = seek_file_name(pathPrefix + 'file', indexList)
         map(seek_one_file, indexList,  fileNameList, fileSizeList)
 
 random.seed(1)
-path = '/global/cscratch1/sd/yuanlai/gf_test/new_test_files_limit_ost_smaller/'
+path = '/global/cscratch1/sd/yuanlai/gf_test/new_test_file_order_by_name/'
 size = 2**40
 seek_file(path, size)
