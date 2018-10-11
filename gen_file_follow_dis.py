@@ -17,16 +17,17 @@ def seek_one_file(index, name, size):
 		while size > 1074000000:
         		f.write('\0' * 1074000000)
 			size -= 1074000000
-			print "divide:" + str(size) 
+			print "divide:" + str(size)
 	f.write('\0' * size)
         f.close()
 
 def gen_file_size_list(size):
-    data = np.load('/global/cscratch1/sd/yuanlai/gf_test/byte_by_app_src-2017.npy')[()]
-    data = data['globusonline-fxp'][:33]
+    #data = np.load('/global/cscratch1/sd/yuanlai/gf_test/byte_by_app_src-2017.npy')[()]
+    data  = np.load('byte_by_app_src-2017.npy')[()]
+    data = data['globusonline-fxp'][:30]
     d_sum = data.sum()
     data = data / d_sum
-    num = range(33)
+    num = range(30)
     random_variable = rv_discrete(values=(num,data), seed=1)
     total = 0
     res = []
@@ -61,6 +62,7 @@ def seek_file(pathPrefix, size):
         map(seek_one_file, indexList,  fileNameList, fileSizeList)
 
 random.seed(1)
-path = '/global/cscratch1/sd/yuanlai/gf_test/new_test_file_order_by_name/'
-size = 2**40
+#path = '/global/cscratch1/sd/yuanlai/gf_test/new_test_file_order_by_name/'
+path = '/home/cc/data_100G/'
+size = 100*(2**30)
 seek_file(path, size)

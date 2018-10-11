@@ -1,0 +1,799 @@
+rtt: 20ms
+cc: 1
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 4
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 8
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 12
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 16
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 20
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 24
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 28
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 32
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+rtt: 40ms
+cc: 1
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 4
+ppq: 1
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 8
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 12
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 16
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 20
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 24
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 28
+ppq: 1
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 32
+ppq: 1
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+rtt: 60ms
+cc: 1
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 4
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 8
+ppq: 1
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 12
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 16
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 20
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 24
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 28
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 32
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+rtt: 80ms
+cc: 1
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 4
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 8
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 12
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 16
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 20
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 24
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 28
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 32
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+rtt: 100ms
+cc: 1
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 4
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 8
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 12
+ppq: 1
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 16
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 20
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 24
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 28
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 32
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+rtt: 150ms
+cc: 1
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 4
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 8
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 12
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 16
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 20
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 24
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 28
+ppq: 1
+ppq: 4

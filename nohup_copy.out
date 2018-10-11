@@ -1,0 +1,2377 @@
+rtt: 0ms
+cc: 1
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 4
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 8
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 12
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 16
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 20
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 24
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 28
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+cc: 32
+ppq: 1
+ppq: 4
+ppq: 8
+ppq: 12
+ppq: 16
+ppq: 20
+rtt: 20ms
+cc: 1
+ppq: 1
+
+error: globus_ftp_client: the operation was aborted
+ppq: 4
+
+error: globus_ftp_client: the operation was aborted
+ppq: 8
+
+error: globus_ftp_client: the operation was aborted
+ppq: 12
+
+error: globus_ftp_client: the operation was aborted
+ppq: 16
+
+error: globus_ftp_client: the operation was aborted
+ppq: 20
+
+error: globus_ftp_client: the operation was aborted
+cc: 4
+ppq: 1
+ppq: 4
+
+error: an end-of-file was reached
+globus_xio: An end of file occurred
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 8
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 12
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 16
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 20
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 24
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 28
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 32
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+rtt: 40ms
+cc: 1
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 4
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 8
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 12
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 16
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 20
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 24
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 28
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 32
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+rtt: 60ms
+cc: 1
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 4
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 8
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 12
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 16
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 20
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 24
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 28
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 32
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+rtt: 80ms
+cc: 1
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 4
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 8
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 12
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 16
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 20
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 24
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 28
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 32
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+rtt: 100ms
+cc: 1
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 4
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 8
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 12
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 16
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 20
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 24
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 28
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 32
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+rtt: 150ms
+cc: 1
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 4
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 8
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 12
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 16
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 20
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 24
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 28
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 32
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+rtt: 200ms
+cc: 1
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 4
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 8
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 12
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 16
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 20
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 24
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 28
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+cc: 32
+ppq: 1
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 4
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 8
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 12
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 16
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+ppq: 20
+
+error: Unable to list url ftp://192.5.87.129:12334/home/cc/data_100G/:
+globus_xio: Unable to connect to 192.5.87.129:12334
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
