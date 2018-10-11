@@ -2,12 +2,6 @@
 dtn01:12334
 dtn02:12334
 dtn04:12334
-dtn05:12334
-dtn06:12334
-dtn07:12334
-dtn08:12334
-dtn09:12334
-dtn10:12334
 @destination
 miradtn01.alcf.anl.gov:50005
 miradtn02.alcf.anl.gov:50005

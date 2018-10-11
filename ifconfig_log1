@@ -1,0 +1,129 @@
+bond0: flags=5187<UP,BROADCAST,RUNNING,MASTER,MULTICAST>  mtu 2044
+        inet 128.55.150.18  netmask 255.255.252.0  broadcast 128.55.151.255
+        infiniband 80:00:00:90:FE:80:00:00:00:00:00:00:00:00:00:00:00:00:00:00  txqueuelen 10000  (InfiniBand)
+        RX packets 206328309  bytes 50524043615 (47.0 GiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 210492274  bytes 61832233095 (57.5 GiB)
+        TX errors 0  dropped 3 overruns 0  carrier 0  collisions 0
+
+bond1: flags=5187<UP,BROADCAST,RUNNING,MASTER,MULTICAST>  mtu 9000
+        ether f4:52:14:26:28:82  txqueuelen 10000  (Ethernet)
+        RX packets 4126512  bytes 260198647 (248.1 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 41454543  bytes 3099747369 (2.8 GiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+bond2: flags=5187<UP,BROADCAST,RUNNING,MASTER,MULTICAST>  mtu 9000
+        ether 24:8a:07:39:88:87  txqueuelen 10000  (Ethernet)
+        RX packets 663848633  bytes 1473230136587 (1.3 TiB)
+        RX errors 0  dropped 6697  overruns 0  frame 0
+        TX packets 600855987  bytes 1076160316034 (1002.2 GiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+bond1.136: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 9000
+        inet 128.55.136.18  netmask 255.255.252.0  broadcast 128.55.139.255
+        ether f4:52:14:26:28:82  txqueuelen 1000  (Ethernet)
+        RX packets 4126243  bytes 202415097 (193.0 MiB)
+        RX errors 0  dropped 607  overruns 0  frame 0
+        TX packets 41414897  bytes 3096969141 (2.8 GiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+bond2.205: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 9000
+        inet 128.55.205.18  netmask 255.255.255.0  broadcast 128.55.205.255
+        ether 24:8a:07:39:88:87  txqueuelen 1000  (Ethernet)
+        RX packets 275399040  bytes 1443736076313 (1.3 TiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 128923800  bytes 1046041606122 (974.2 GiB)
+        TX errors 0  dropped 31344 overruns 0  carrier 0  collisions 0
+
+eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.55.46.181  netmask 255.255.255.0  broadcast 10.55.46.255
+        ether 00:25:90:f3:b7:96  txqueuelen 1000  (Ethernet)
+        RX packets 91090  bytes 31686343 (30.2 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 538597  bytes 70842635 (67.5 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device memory 0xcfd60000-cfd7ffff  
+
+eth1: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 00:25:90:f3:b7:97  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device memory 0xcfd40000-cfd5ffff  
+
+eth2: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 00:25:90:f3:b7:98  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device memory 0xcfd20000-cfd3ffff  
+
+eth3: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 00:25:90:f3:b7:99  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device memory 0xcfd00000-cfd1ffff  
+
+eth4: flags=6211<UP,BROADCAST,RUNNING,SLAVE,MULTICAST>  mtu 9000
+        ether 24:8a:07:39:88:87  txqueuelen 10000  (Ethernet)
+        RX packets 293841695  bytes 707708770920 (659.1 GiB)
+        RX errors 0  dropped 3348  overruns 0  frame 0
+        TX packets 414154597  bytes 707992097476 (659.3 GiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+eth5: flags=6211<UP,BROADCAST,RUNNING,SLAVE,MULTICAST>  mtu 9000
+        ether 24:8a:07:39:88:87  txqueuelen 10000  (Ethernet)
+        RX packets 370006938  bytes 765521365667 (712.9 GiB)
+        RX errors 0  dropped 3349  overruns 0  frame 0
+        TX packets 186701390  bytes 368168218558 (342.8 GiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+eth6: flags=6211<UP,BROADCAST,RUNNING,SLAVE,MULTICAST>  mtu 9000
+        ether f4:52:14:26:28:82  txqueuelen 10000  (Ethernet)
+        RX packets 69849  bytes 9894051 (9.4 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 20097657  bytes 1499180088 (1.3 GiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+eth7: flags=6211<UP,BROADCAST,RUNNING,SLAVE,MULTICAST>  mtu 9000
+        ether f4:52:14:26:28:82  txqueuelen 10000  (Ethernet)
+        RX packets 4056663  bytes 250304596 (238.7 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 21356886  bytes 1600567281 (1.4 GiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+ib0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 2044
+        inet 10.100.107.101  netmask 255.255.252.0  broadcast 10.100.107.255
+        infiniband A0:00:03:00:FE:80:00:00:00:00:00:00:00:00:00:00:00:00:00:00  txqueuelen 10000  (InfiniBand)
+        RX packets 8804017  bytes 493025540 (470.1 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 305  bytes 18888 (18.4 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+ib2: flags=6211<UP,BROADCAST,RUNNING,SLAVE,MULTICAST>  mtu 2044
+        infiniband 80:00:00:90:FE:80:00:00:00:00:00:00:00:00:00:00:00:00:00:00  txqueuelen 10000  (InfiniBand)
+        RX packets 205206800  bytes 50461239243 (46.9 GiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 210492275  bytes 61832233199 (57.5 GiB)
+        TX errors 0  dropped 3 overruns 0  carrier 0  collisions 0
+
+ib3: flags=6211<UP,BROADCAST,RUNNING,SLAVE,MULTICAST>  mtu 2044
+        infiniband 80:00:00:90:FE:80:00:00:00:00:00:00:00:00:00:00:00:00:00:00  txqueuelen 10000  (InfiniBand)
+        RX packets 1121512  bytes 62804672 (59.8 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 442456  bytes 372373204 (355.1 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 442456  bytes 372373204 (355.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
